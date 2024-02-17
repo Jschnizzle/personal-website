@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here you can demonstrate your projects.\n\nsample(1:100)\n\n  [1]  68  74  21  17  51  91  96  71  45  90  33  53  92  35  87  15  75   5\n [19]  86  49  85  99  52  67  38  76  26  46  88  54  30  50  80  47  77  41\n [37]  84  64  97   6  95   1  81  66  12   2  14  10 100   9  40  28  27  16\n [55]   7  37  98  48  89  94  61  43  57  18  13  22  63  72  56  59  79  20\n [73]  36  93  78  32  42  82  55  19   3  23   4  24  29  60  69  65  58  11\n [91]  73  31  70  62  44  83  25  39   8  34"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\nThis is a test website\nThis is another change to test netlify"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "test-website",
@@ -12,19 +26,5 @@
     "title": "test-website",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\nThis is a test website"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Here you can demonstrate your projects.\n\nsample(1:100)\n\n  [1]  50  74  64  28   4  76  71  42  54  63   6  60  18  93  68  14  88  51\n [19]  22  30  33  85  81  90  92  80  46   7  83  36  98  69  29  13  24  87\n [37]  25  91  59  79  31  78  73  37  67  47  10  35  70  66  15  89  82  21\n [55]  32  40  77  45  56  12  72  57  97  53  84  48  58  11  27   8   2  62\n [73]   5  43  17  44  26  55  38 100  41   3  16  75  20  61  52  86  34  39\n [91]  19  94   1  49  23  65   9  96  99  95"
   }
 ]
