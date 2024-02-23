@@ -1,5 +1,17 @@
 ---
 toc: false
+about:
+    template: trestles
+    links:
+      - icon: linkedin
+        text: LinkedIn
+        url: https://www.linkedin.com/
+      - icon: github
+        text: Github
+        url: https://github.com/Jschnizzle/personal-website
+      - text: Email
+        url: "mailto:jeremyshiu428@gmail.com"
+image: ID_photo.jpg
 ---
 
 ## Title of Website
@@ -12,3 +24,5 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 1 + 1
 ```
 
+## Heading 19
+Attached is a random pdf for testing purposes [pdf_test](/docs/pdf_test/Jaromir Malek, Egyptian Art (1).pdf "Jaromir Malek, Egyptian Art (1).pdf") 

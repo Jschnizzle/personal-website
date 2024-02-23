@@ -1,0 +1,18 @@
+---
+listing: 
+  - id: blogs_listing
+    contents:
+      - "/blogs/*.qmd"
+    sort: false
+    sort-ui: false
+    filter-ui: true
+    type: table
+    fields: 
+      - title
+    categories: false
+---
+
+Below are going to be some test blog posts.
+
+:::blogs-listing
+:::

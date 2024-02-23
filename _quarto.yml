@@ -11,6 +11,17 @@ website:
         text: Bio
       - href: projects.qmd
         text: Projects
+#      - href: test.qmd
+#        text: Test
+      - href: blogs.qmd
+        text: Blog Posts
+    right:
+      - icon: github
+        menu:
+          - text: Website Source Code
+            url: https://github.com/Jschnizzle/personal-website
+  page-footer:
+    right: "&copy; 2024, Jeremy Shiu"
 
 format:
   html:
@@ -20,6 +31,5 @@ format:
     
 exectue:
   freeze: auto
-
 
 

@@ -9,3 +9,6 @@ This is a test website
 This is another change to test netlify
 
 write information down here
+
+## Current Classes
+- Stats 140XP: [Practice of Statistical Consulting](/about/index.qmd) *(Winter 2024)*
