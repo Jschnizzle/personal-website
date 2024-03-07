@@ -6,9 +6,9 @@ About this site
 
 This is a test website
 
-This is another change to test netlify
-
-write information down here
+I am a third year Statistics Major at UCLA. 
 
 ## Current Classes
 - Stats 140XP: [Practice of Statistical Consulting](/about/index.qmd) *(Winter 2024)*
+
+- Stats 102A: [Introduction to Computational Statistics with R](/about/index.qmd) *(Winter 2024)*

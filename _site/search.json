@@ -25,14 +25,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\nThis is a test website\nThis is another change to test netlify\nwrite information down here"
+    "text": "About this site\nThis is a test website\nI am a third year Statistics Major at UCLA."
   },
   {
     "objectID": "about.html#current-classes",
     "href": "about.html#current-classes",
     "title": "About",
     "section": "Current Classes",
-    "text": "Current Classes\n\nStats 140XP: Practice of Statistical Consulting (Winter 2024)"
+    "text": "Current Classes\n\nStats 140XP: Practice of Statistical Consulting (Winter 2024)\nStats 102A: Introduction to Computational Statistics with R (Winter 2024)"
   },
   {
     "objectID": "blogs/post1.html",
