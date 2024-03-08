@@ -9,6 +9,7 @@ sample(1:100)
 ```
 
 ## Project 1
-- machine learning in R *(smoking project)*
+- machine learning in R *(smoking project)* url:
 
 ## Project 2
+- Experiment to determine if energy drinks have a significant impact on athletic performance  [.](https://docs.google.com/presentation/d/1ozBFodJBxps4U9hkx_eGGpnwcKITCoNoyIWxfaBNY-Q/edit#slide=id.g2a161431db0_0_54)

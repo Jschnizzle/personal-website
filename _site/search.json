@@ -4,21 +4,21 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Here you can demonstrate your projects.\nsample(1:100)\n\n  [1]  77  11  84  30  40  29  57  35  49  72  51  58  55  45  64   3  42   8\n [19]  71  25  27  22  75  28  23  86  20  95  48   7  26  98  56  50  46  74\n [37]  90  16  93  92  39  52  44  82  63  76  73  15  79  97   4  88  19   1\n [55]  66  33  67  24  94  18  61  53  13  10  17  68  59  43   6  87  70  85\n [73]  99  96  34  32 100  69  83  54  89  91  36   2  65  37  80   9  21  78\n [91]   5  14  60  31  81  38  47  12  41  62"
+    "text": "Here you can demonstrate your projects.\nsample(1:100)\n\n  [1]  64  80  16  74  47  23  11  29  18  27  84  96  56  17  12  36  94  34\n [19]  69  53  59   1  30   5  99  66  13  95  54  57  22  37   9  32  21  83\n [37]  62  89  72  67   8  97  86  98  26  20  49  60  48  79   2  33  35  52\n [55]  46  41  91  40  63  24  90  68   6   7  77  71  75  81  70  45  92  31\n [73]  28  73  10  88  58  87  61  19  65  76  50  55  15  43 100  82  78  93\n [91]  14  25  44   4  51  85  38  39  42   3"
   },
   {
     "objectID": "projects.html#project-1",
     "href": "projects.html#project-1",
     "title": "Projects",
     "section": "Project 1",
-    "text": "Project 1\n\nmachine learning in R (smoking project)"
+    "text": "Project 1\n\nmachine learning in R (smoking project) url:"
   },
   {
     "objectID": "projects.html#project-2",
     "href": "projects.html#project-2",
     "title": "Projects",
     "section": "Project 2",
-    "text": "Project 2"
+    "text": "Project 2\n\nExperiment to determine if energy drinks have a significant impact on athletic performance ."
   },
   {
     "objectID": "blogs.html",
@@ -91,17 +91,10 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
-    "objectID": "index.html#heading-19",
-    "href": "index.html#heading-19",
+    "objectID": "index.html#resume",
+    "href": "index.html#resume",
     "title": "test-website",
-    "section": "Heading 19",
-    "text": "Heading 19\nAttached is a random pdf for testing purposes pdf_test"
-  },
-  {
-    "objectID": "index.html#heading-20",
-    "href": "index.html#heading-20",
-    "title": "test-website",
-    "section": "Heading 20",
-    "text": "Heading 20\nResume: pdf_test"
+    "section": "Resume",
+    "text": "Resume\nResume: Resume"
   }
 ]
