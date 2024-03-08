@@ -25,4 +25,6 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 ## Heading 19
 Attached is a random pdf for testing purposes [pdf_test](/docs/pdf_test/Jaromir Malek, Egyptian Art (1).pdf "Jaromir Malek, Egyptian Art (1).pdf") 
 
-Resume: [Downloads](/Users/jerem/Downloads/Resume (1).pdf "Resume (1).pdf")
+## Heading 20
+
+Resume: [pdf_test](/docs/pdf_test/Resume (1).pdf "Resume (1).pdf")
