@@ -1,14 +1,25 @@
 ---
 title: "About"
+about:
+    template: trestles
+    links:
+      - icon: linkedin
+        text: LinkedIn
+        url: https://www.linkedin.com/in/jeremy-shiu-19790b2b9/
+      - icon: github
+        text: Github
+        url: https://github.com/Jschnizzle/personal-website
+      - text: Email
+        url: "mailto:jeremyshiu428@gmail.com"
+image: ID_photo.jpg
 ---
 
-About this site
+Hi, my name is Jeremy Shiu, and I am a third year Statistics Major at UCLA. This is my [Resume](/docs/Resume/Resume (1).pdf "Resume (1).pdf").
 
-This is a test website
-
-I am a third year Statistics Major at UCLA. 
+## Current Internship
+- Student Researcher for the UCLA Health Radiology Department
 
 ## Current Classes
-- Stats 140XP: [Practice of Statistical Consulting](/about/index.qmd) *(Winter 2024)*
+- Stats 140XP: Practice of Statistical Consulting *(Winter 2024)*
 
-- Stats 102A: [Introduction to Computational Statistics with R](/about/index.qmd) *(Winter 2024)*
+- Stats 102A: Introduction to Computational Statistics with R *(Winter 2024)*

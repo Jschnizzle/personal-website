@@ -2,23 +2,23 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Projects",
+    "title": "Projects/Experience",
     "section": "",
-    "text": "Here you can demonstrate your projects.\nsample(1:100)\n\n  [1]  64  80  16  74  47  23  11  29  18  27  84  96  56  17  12  36  94  34\n [19]  69  53  59   1  30   5  99  66  13  95  54  57  22  37   9  32  21  83\n [37]  62  89  72  67   8  97  86  98  26  20  49  60  48  79   2  33  35  52\n [55]  46  41  91  40  63  24  90  68   6   7  77  71  75  81  70  45  92  31\n [73]  28  73  10  88  58  87  61  19  65  76  50  55  15  43 100  82  78  93\n [91]  14  25  44   4  51  85  38  39  42   3"
+    "text": "Machine learning project in R to predict whether someone was a smoker or not based on certain lifestyle and biological factors as part of a competition using the Kaggle website Google Slides Link\n\n\n\n\n\nExperiment performed on a simulated island population to determine if energy drinks have a significant impact on athletic performance. Google Slides Link\n\n\n\n\n\nProject involving building a multiple regression model to try and predict wins of an NFL team using various factors. Google Slides Link"
   },
   {
-    "objectID": "projects.html#project-1",
-    "href": "projects.html#project-1",
-    "title": "Projects",
-    "section": "Project 1",
-    "text": "Project 1\n\nmachine learning in R (smoking project) url:"
+    "objectID": "projects.html#projects",
+    "href": "projects.html#projects",
+    "title": "Projects/Experience",
+    "section": "",
+    "text": "Machine learning project in R to predict whether someone was a smoker or not based on certain lifestyle and biological factors as part of a competition using the Kaggle website Google Slides Link\n\n\n\n\n\nExperiment performed on a simulated island population to determine if energy drinks have a significant impact on athletic performance. Google Slides Link\n\n\n\n\n\nProject involving building a multiple regression model to try and predict wins of an NFL team using various factors. Google Slides Link"
   },
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2\n\nExperiment to determine if energy drinks have a significant impact on athletic performance ."
+    "objectID": "projects.html#previous-courses",
+    "href": "projects.html#previous-courses",
+    "title": "Projects/Experience",
+    "section": "Previous Courses",
+    "text": "Previous Courses\n\nStatistics 10 - Introduction to Statistical Reasoning\n\n\nStatistics 20 - Introduction to Statistical Programming with R\n\n\nStatistics 100A - Introduction to Probability\n\n\nStatistics 101A - Introduction to Data Analysis and Regression\n\n\nStatistics 100B - Introduction to MAthematical Statistics\n\n\nStatistics 101B - Introduction to Design and Analysis of Experiment\n\n\nStatistics 100C - Linear Models\n\n\nStatistics 101C - Introduction to Statistical Models and Data Mining"
   },
   {
     "objectID": "blogs.html",
@@ -32,7 +32,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\nThis is a test website\nI am a third year Statistics Major at UCLA."
+    "text": "Hi, my name is Jeremy Shiu, and I am a third year Statistics Major at UCLA. This is my Resume."
+  },
+  {
+    "objectID": "about.html#current-internship",
+    "href": "about.html#current-internship",
+    "title": "About",
+    "section": "Current Internship",
+    "text": "Current Internship\n\nStudent Researcher for the UCLA Health Radiology Department"
   },
   {
     "objectID": "about.html#current-classes",
@@ -89,12 +96,5 @@
     "title": "test-website",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "index.html#resume",
-    "href": "index.html#resume",
-    "title": "test-website",
-    "section": "Resume",
-    "text": "Resume\nResume: Resume"
   }
 ]

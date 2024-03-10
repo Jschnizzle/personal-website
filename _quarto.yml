@@ -8,9 +8,9 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: Bio
+        text: About
       - href: projects.qmd
-        text: Projects
+        text: Projects/Experience
 #      - href: test.qmd
 #        text: Test
       - href: blogs.qmd

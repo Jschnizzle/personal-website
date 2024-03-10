@@ -33,7 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -94,11 +93,11 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./about.html" aria-current="page"> 
-<span class="menu-text">Bio</span></a>
+<span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./projects.html"> 
-<span class="menu-text">Projects</span></a>
+<span class="menu-text">Projects/Experience</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./blogs.html"> 
@@ -133,48 +132,59 @@ ul.task-list li input[type="checkbox"] {
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
-   
   <ul>
-  <li><a href="#current-classes" id="toc-current-classes" class="nav-link active" data-scroll-target="#current-classes">Current Classes</a></li>
+  <li><a href="#current-internship" id="toc-current-internship" class="nav-link active" data-scroll-target="#current-internship">Current Internship</a></li>
+  <li><a href="#current-classes" id="toc-current-classes" class="nav-link" data-scroll-target="#current-classes">Current Classes</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
+<div class="quarto-about-trestles content">
+  <div class="about-entity">
+    <img src="ID_photo.jpg" class="about-image
+  rounded " style="width: 20em;">
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">About</h1>
 </div>
-
-
-
 <div class="quarto-title-meta">
-
-    
-  
-    
   </div>
-  
-
-
 </header>
+    <div class="about-links">
+  <a href="https://www.linkedin.com/in/jeremy-shiu-19790b2b9/" class="about-link" rel="" target="">
+    <i class="bi bi-linkedin"></i>
+     <span class="about-link-text">LinkedIn</span>
+  </a>
+  <a href="https://github.com/Jschnizzle/personal-website" class="about-link" rel="" target="">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text">Github</span>
+  </a>
+  <a href="mailto:jeremyshiu428@gmail.com" class="about-link" rel="" target="">
+     <span class="about-link-text">Email</span>
+  </a>
+</div>
+  </div>
+  <div class="about-contents"><main class="content" id="quarto-document-content">
 
-
-<p>About this site</p>
-<p>This is a test website</p>
-<p>I am a third year Statistics Major at UCLA.</p>
-<section id="current-classes" class="level2">
-<h2 class="anchored" data-anchor-id="current-classes">Current Classes</h2>
+<p>Hi, my name is Jeremy Shiu, and I am a third year Statistics Major at UCLA. This is my <a href=".\docs/Resume/Resume (1).pdf" title="Resume (1).pdf">Resume</a>.</p>
+<section id="current-internship" class="level2">
+<h2 data-anchor-id="current-internship">Current Internship</h2>
 <ul>
-<li><p>Stats 140XP: <a href=".\about/index.qmd">Practice of Statistical Consulting</a> <em>(Winter 2024)</em></p></li>
-<li><p>Stats 102A: <a href=".\about/index.qmd">Introduction to Computational Statistics with R</a> <em>(Winter 2024)</em></p></li>
+<li>Student Researcher for the UCLA Health Radiology Department</li>
+</ul>
+</section>
+<section id="current-classes" class="level2">
+<h2 data-anchor-id="current-classes">Current Classes</h2>
+<ul>
+<li><p>Stats 140XP: Practice of Statistical Consulting <em>(Winter 2024)</em></p></li>
+<li><p>Stats 102A: Introduction to Computational Statistics with R <em>(Winter 2024)</em></p></li>
 </ul>
 
 
 </section>
-
-</main> <!-- /main -->
+</main></div>
+</div>
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -195,13 +205,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

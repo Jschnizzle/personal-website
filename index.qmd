@@ -1,17 +1,6 @@
 ---
 toc: false
-about:
-    template: trestles
-    links:
-      - icon: linkedin
-        text: LinkedIn
-        url: https://www.linkedin.com/
-      - icon: github
-        text: Github
-        url: https://github.com/Jschnizzle/personal-website
-      - text: Email
-        url: "mailto:jeremyshiu428@gmail.com"
-image: ID_photo.jpg
+
 ---
 
 ## Jeremy Shiu's Personal Website
@@ -21,6 +10,4 @@ This is a Quarto website.
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 
-## Resume
 
-Resume: [Resume](/docs/pdf_test/Resume (1).pdf "Resume (1).pdf")

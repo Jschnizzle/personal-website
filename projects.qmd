@@ -1,15 +1,32 @@
 ---
-title: "Projects"
+title: "Projects/Experience"
 ---
 
-Here you can demonstrate your projects. 
+## Projects
 
-```{r}
-sample(1:100)
-```
+#### Statistics 101C Final Project (Introduction to Statistical Models and Data Mining)
+- Machine learning project in R to predict whether someone was a smoker or not based on certain lifestyle and biological factors as part of a competition using the Kaggle website [Google Slides Link](https://docs.google.com/presentation/d/1ozBFodJBxps4U9hkx_eGGpnwcKITCoNoyIWxfaBNY-Q/edit#slide=id.g2a161431db0_0_54)
 
-## Project 1
-- machine learning in R *(smoking project)* url:
+#### Statistics 101B Final Project (Introduction to Design and Analysis of Experiment)
+- Experiment performed on a simulated island population to determine if energy drinks have a significant impact on athletic performance. [Google Slides Link](https://docs.google.com/presentation/d/1ozBFodJBxps4U9hkx_eGGpnwcKITCoNoyIWxfaBNY-Q/edit#slide=id.g2a161431db0_0_54)
 
-## Project 2
-- Experiment to determine if energy drinks have a significant impact on athletic performance  [.](https://docs.google.com/presentation/d/1ozBFodJBxps4U9hkx_eGGpnwcKITCoNoyIWxfaBNY-Q/edit#slide=id.g2a161431db0_0_54)
+#### Statistics 101A Final Project (Introduction to Data Analysis and Regression)
+- Project involving building a multiple regression model to try and predict wins of an NFL team using various factors. [Google Slides Link](https://docs.google.com/presentation/d/1ABkCrryNkFEnjbylDbhy7L88r2qF9sKF6N6PCOl4614/edit#slide=id.p)
+
+## Previous Courses
+
+#### Statistics 10 - Introduction to Statistical Reasoning
+
+#### Statistics 20 - Introduction to Statistical Programming with R
+
+#### Statistics 100A - Introduction to Probability
+
+#### Statistics 101A - Introduction to Data Analysis and Regression
+
+#### Statistics 100B - Introduction to MAthematical Statistics
+
+#### Statistics 101B - Introduction to Design and Analysis of Experiment
+
+#### Statistics 100C - Linear Models
+
+#### Statistics 101C - Introduction to Statistical Models and Data Mining
