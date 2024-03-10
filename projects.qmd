@@ -5,7 +5,7 @@ title: "Projects/Experience"
 ## Projects
 
 #### Statistics 101C Final Project (Introduction to Statistical Models and Data Mining)
-- Machine learning project in R to predict whether someone was a smoker or not based on certain lifestyle and biological factors as part of a competition using the Kaggle website [Google Slides Link](https://docs.google.com/presentation/d/1ozBFodJBxps4U9hkx_eGGpnwcKITCoNoyIWxfaBNY-Q/edit#slide=id.g2a161431db0_0_54)
+- Machine learning project in R to predict whether someone was a smoker or not based on certain lifestyle and biological factors as part of a competition using the Kaggle website. [Google Slides Link](https://docs.google.com/presentation/d/1ozBFodJBxps4U9hkx_eGGpnwcKITCoNoyIWxfaBNY-Q/edit#slide=id.g2a161431db0_0_54)
 
 #### Statistics 101B Final Project (Introduction to Design and Analysis of Experiment)
 - Experiment performed on a simulated island population to determine if energy drinks have a significant impact on athletic performance. [Google Slides Link](https://docs.google.com/presentation/d/1ozBFodJBxps4U9hkx_eGGpnwcKITCoNoyIWxfaBNY-Q/edit#slide=id.g2a161431db0_0_54)
